@@ -249,7 +249,3 @@ docker-compose up --build
 ## 📄 License
 
 MIT License - feel free to use this project for learning, portfolio, or commercial purposes.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request.
